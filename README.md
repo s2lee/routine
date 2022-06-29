@@ -1,7 +1,9 @@
 ## Routine
 - [Part 1. 사용 기술 스택](#1-사용-기술-스택)
 - [Part 2. 프로젝트 구조](#2-프로젝트-구조)
-- [Part 3. ERD](#3-ERD)
+- [Part 3. 개체-관계 모델](#3-개체-관계-모델)
+- [Part 4. 실행방법](#4-실행방법)
+
 
 <br><br>
 
@@ -20,9 +22,18 @@
 </p>
 <br><br>
 
-# 3. ERD
+# 3. 개체 관계 모델
 <p align="center">
   <img width="725" alt="2" src="https://user-images.githubusercontent.com/82914197/176439235-124750c3-a43f-45ad-a75e-d9722b5cf6e6.png">
 </p>
 <br><br>
+
+# 4. 실행방법
+실행방법 .env.dev 파일과 .env.db 파일 작성 후 도커 빌드업
+<p align="center">
+    <img width="309" alt="3" src="https://user-images.githubusercontent.com/82914197/176442308-e5c98a9b-b988-409f-b064-aae1fce85eb6.png">
+    <img width="281" alt="4" src="https://user-images.githubusercontent.com/82914197/176441554-bffe55b1-5b7d-4d18-a0db-ff9fb6fc5a28.png">
+</p>
+
+
 
